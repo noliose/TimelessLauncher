@@ -2,25 +2,25 @@
     "version": "1.0.0",
     "discord": {
         "clientId": "385581240906022916",
-        "smallImageText": "WesterosCraft",
+        "smallImageText": "Timeless Server",
         "smallImageKey": "seal-circle"
     },
     "java": {
         "oracle": "http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html"
     },
-    "rss": "https://forum.westeroscraft.com/forum/news.2/index.rss",
+    "rss": "https://forum.timelessserver.com/forum/news.2/index.rss",
     "servers": [
         {
-            "id": "WesterosCraft-1.11.2",
-            "name": "WesterosCraft Production Server",
-            "description": "Main WesterosCraft server. Connect to enter the Realm.",
-            "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-prod.png",
+            "id": "Timeless Server-1.11.2",
+            "name": "Timeless Server Production Server",
+            "description": "Main Timeless Server server. Connect to enter the Realm.",
+            "icon": "http://mc.timelessserver.com/TimelessServer/files/server-prod.png",
             "version": "3.9.4",
-            "address": "mc.westeroscraft.com",
+            "address": "mc.timelessserver.com",
             "minecraftVersion": "1.11.2",
             "discord": {
                 "shortId": "Production",
-                "largeImageText": "WesterosCraft Production Server",
+                "largeImageText": "Timeless Server Production Server",
                 "largeImageKey": "server-prod"
             },
             "mainServer": true,
@@ -43,7 +43,7 @@
                             "artifact": {
                                 "size": 32999,
                                 "MD5": "934b2d91c7c5be4a49577c9e6b40e8da",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.11.2/launchwrapper-1.12.jar"
+                                "url": "http://mc.timelessserver.com/TimelessServer/files/1.11.2/launchwrapper-1.12.jar"
                             }
                         },
                         {
@@ -53,7 +53,7 @@
                             "artifact": {
                                 "size": 241639,
                                 "MD5": "c5cc4613bbdfba3ccf5f0ab85390d0b8",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.11.2/asm-all-5.0.3.jar"
+                                "url": "http://mc.timelessserver.com/TimelessServer/files/1.11.2/asm-all-5.0.3.jar"
                             }
                         },
                         {
@@ -63,7 +63,7 @@
                             "artifact": {
                                 "size": 1474672,
                                 "MD5": "379c15c4f724421c6d5d7aecedaf87a6",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.11.2/scala-library-2.11.1.jar.pack.xz"
+                                "url": "http://mc.timelessserver.com/TimelessServer/files/1.11.2/scala-library-2.11.1.jar.pack.xz"
                             }
                         },
                         {
@@ -73,7 +73,7 @@
                             "artifact": {
                                 "size": 3076920,
                                 "MD5": "7d89e952f2d5c74577310cd2c28e3f20",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.11.2/scala-compiler-2.11.1.jar.pack.xz"
+                                "url": "http://mc.timelessserver.com/TimelessServer/files/1.11.2/scala-compiler-2.11.1.jar.pack.xz"
                             }
                         },
                         {
@@ -83,7 +83,7 @@
                             "artifact": {
                                 "size": 21324,
                                 "MD5": "04e3428b2600ace33c7ae2bf1f6c0a4c",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.11.2/scala-actors-migration_2.11-1.1.0.jar.pack.xz"
+                                "url": "http://mc.timelessserver.com/TimelessServer/files/1.11.2/scala-actors-migration_2.11-1.1.0.jar.pack.xz"
                             }
                         },
                         {
@@ -93,7 +93,7 @@
                             "artifact": {
                                 "size": 7956,
                                 "MD5": "ed9b1d27aba8ac4090a3749c4dfc895a",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.11.2/scala-continuations-library_2.11-1.0.2.jar.pack.xz"
+                                "url": "http://mc.timelessserver.com/TimelessServer/files/1.11.2/scala-continuations-library_2.11-1.0.2.jar.pack.xz"
                             }
                         },
                         {
@@ -103,7 +103,7 @@
                             "artifact": {
                                 "size": 46140,
                                 "MD5": "a8232db22a72a981de6b1399eb86dff7",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.11.2/scala-continuations-plugin_2.11.1-1.0.2.jar.pack.xz"
+                                "url": "http://mc.timelessserver.com/TimelessServer/files/1.11.2/scala-continuations-plugin_2.11.1-1.0.2.jar.pack.xz"
                             }
                         },
                         {
@@ -113,7 +113,7 @@
                             "artifact": {
                                 "size": 85568,
                                 "MD5": "2e50a7df17680daadacca69f07f8a16d",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.11.2/scala-parser-combinators_2.11-1.0.1.jar.pack.xz"
+                                "url": "http://mc.timelessserver.com/TimelessServer/files/1.11.2/scala-parser-combinators_2.11-1.0.1.jar.pack.xz"
                             }
                         },
                         {
@@ -123,7 +123,7 @@
                             "artifact": {
                                 "size": 1070312,
                                 "MD5": "84e5dc81c10e2bd74c579c9d0332fdd9",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.11.2/scala-reflect-2.11.1.jar.pack.xz"
+                                "url": "http://mc.timelessserver.com/TimelessServer/files/1.11.2/scala-reflect-2.11.1.jar.pack.xz"
                             }
                         },
                         {
@@ -133,7 +133,7 @@
                             "artifact": {
                                 "size": 736795,
                                 "MD5": "1d360289e697022a3f57abaad344b28f",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.11.2/scala-swing_2.11-1.0.1.jar"
+                                "url": "http://mc.timelessserver.com/TimelessServer/files/1.11.2/scala-swing_2.11-1.0.1.jar"
                             }
                         },
                         {
@@ -143,7 +143,7 @@
                             "artifact": {
                                 "size": 217812,
                                 "MD5": "cc891b094a4c32dedc56bfefe9b072ff",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.11.2/scala-xml_2.11-1.0.2.jar.pack.xz"
+                                "url": "http://mc.timelessserver.com/TimelessServer/files/1.11.2/scala-xml_2.11-1.0.2.jar.pack.xz"
                             }
                         },
                         {
@@ -153,7 +153,7 @@
                             "artifact": {
                                 "size": 746612,
                                 "MD5": "25cb22c3078e9fb3f7a861c912924862",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.11.2/akka-actor_2.11-2.3.3.jar.pack.xz"
+                                "url": "http://mc.timelessserver.com/TimelessServer/files/1.11.2/akka-actor_2.11-2.3.3.jar.pack.xz"
                             }
                         },
                         {
@@ -163,7 +163,7 @@
                             "artifact": {
                                 "size": 56636,
                                 "MD5": "10ec4ccabc4e68aac9cf87165ead5d7d",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.11.2/config-1.2.1.jar.pack.xz"
+                                "url": "http://mc.timelessserver.com/TimelessServer/files/1.11.2/config-1.2.1.jar.pack.xz"
                             }
                         },
                         {
@@ -173,7 +173,7 @@
                             "artifact": {
                                 "size": 5762,
                                 "MD5": "a3e3c3186e41c4a1a3027ba2bb23cdc6",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.11.2/lzma-0.0.1.jar"
+                                "url": "http://mc.timelessserver.com/TimelessServer/files/1.11.2/lzma-0.0.1.jar"
                             }
                         },
                         {
@@ -183,7 +183,7 @@
                             "artifact": {
                                 "size": 2523218,
                                 "MD5": "8fc4d4e0129244f9fd39650c5f30feb2",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.11.2/trove4j-3.0.3.jar"
+                                "url": "http://mc.timelessserver.com/TimelessServer/files/1.11.2/trove4j-3.0.3.jar"
                             }
                         },
                         {
@@ -193,7 +193,7 @@
                             "artifact": {
                                 "size": 318956,
                                 "MD5": "e5d2b7f46c4800a32f62ce75676a5710",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.11.2/vecmath-1.5.2.jar"
+                                "url": "http://mc.timelessserver.com/TimelessServer/files/1.11.2/vecmath-1.5.2.jar"
                             }
                         },
                         {
@@ -203,7 +203,7 @@
                             "artifact": {
                                 "size": 62477,
                                 "MD5": "13560a58a79b46b82057686543e8d727",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.11.2/jopt-simple-4.6.jar"
+                                "url": "http://mc.timelessserver.com/TimelessServer/files/1.11.2/jopt-simple-4.6.jar"
                             }
                         },
                         {
@@ -213,30 +213,30 @@
                             "artifact": {
                                 "size": 15146,
                                 "MD5": "7556d06064ebbfa3b334a15092d725d0",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.11.2/MercuriusUpdater-1.11.2.jar"
+                                "url": "http://mc.timelessserver.com/TimelessServer/files/1.11.2/MercuriusUpdater-1.11.2.jar"
                             }
                         }
                     ]
                 },
                 {
-                    "id": "com.westeroscraft:westerosblocks:3.2.0-beta-1-190",
-                    "name": "WesterosBlocks",
+                    "id": "com.timelessserver:timelessblocks:3.2.0-beta-1-190",
+                    "name": "TimelessBlocks",
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 17376788,
                          "MD5": "370f4f1804c93f498f31af8dac509605",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.11.2/mods/WesterosBlocks.jar"
+                        "url": "http://mc.timelessserver.com/TimelessServer/prod-1.11.2/mods/TimelessBlocks.jar"
                     }
                 },
                 {
-                    "id": "com.westeroscraft:westeroscraftrp:2019-01-21",
-                    "name": "WesterosCraft Resource Pack",
+                    "id": "com.timelessserver:timelessserverrp:2019-01-21",
+                    "name": "Timeless Server Resource Pack",
                     "type": "File",
                     "artifact": {
                         "size": 46999843,
                         "MD5": "309eb9e5296e9f55cfecb7d4058245a4",
-                        "path": "resourcepacks/WesterosCraft.zip",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.11.2/resourcepacks/WesterosCraft.zip"
+                        "path": "resourcepacks/TimelessServer.zip",
+                        "url": "http://mc.timelessserver.com/TimelessServer/prod-1.11.2/resourcepacks/TimelessServer.zip"
                     }
                 },
                 {
@@ -246,7 +246,7 @@
                     "artifact": {
                         "size": 2254712,
                         "MD5": "0dd7761e908f9b245bb0dc0fac5649f5",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.11.2/mods/OptiFine.jar"
+                        "url": "http://mc.timelessserver.com/TimelessServer/prod-1.11.2/mods/OptiFine.jar"
                     }
                 },
                 {
@@ -256,7 +256,7 @@
                     "artifact": {
                         "size": 538740,
                         "MD5": "f4d931f6db6210621a86fa1e7eae8016",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.11.2/mods/jei.jar"
+                        "url": "http://mc.timelessserver.com/TimelessServer/prod-1.11.2/mods/jei.jar"
                     }
                 },
                 {
@@ -269,7 +269,7 @@
                     "artifact": {
                         "size": 22291385,
                         "MD5": "65403c66d8b3655b372f58047941d206",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.11.2/mods/DynamicSurroundings.jar"
+                        "url": "http://mc.timelessserver.com/TimelessServer/prod-1.11.2/mods/DynamicSurroundings.jar"
                     },
                     "subModules": [
                         {
@@ -279,18 +279,18 @@
                             "artifact": {
                                 "size": 20258,
                                 "path": "/config/dsurround/dsurround.cfg",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.11.2/config/dsurround/dsurround.cfg"
+                                "url": "http://mc.timelessserver.com/TimelessServer/prod-1.11.2/config/dsurround/dsurround.cfg"
                             }
                         },
                         {
-                            "id": "westeros.json",
-                            "name": "DynamicSurroundings WesterosCraft Configuration File",
+                            "id": "timeless.json",
+                            "name": "DynamicSurroundings Timeless Server Configuration File",
                             "type": "File",
                             "artifact": {
                                 "size": 608,
                                 "MD5": "44eab112ff24d0bd29974c270de868ba",
-                                "path": "/config/dsurround/westeros.json",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.11.2/config/dsurround/westeros.json"
+                                "path": "/config/dsurround/timeless.json",
+                                "url": "http://mc.timelessserver.com/TimelessServer/prod-1.11.2/config/dsurround/timeless.json"
                             }
                         }
                     ]
@@ -305,7 +305,7 @@
                     "artifact": {
                         "size": 4675903,
                         "MD5": "522fdf73b6e4343cb6243872fb7b4b6c",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.11.2/mods/BetterFoliage.jar"
+                        "url": "http://mc.timelessserver.com/TimelessServer/prod-1.11.2/mods/BetterFoliage.jar"
                     },
                     "subModules": [
                         {
@@ -316,7 +316,7 @@
                                 "size": 7878,
                                 "MD5": "6dd38f873c4129af05a2d6c500cbe954",
                                 "path": "/config/betterfoliage.cfg",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.11.2/config/betterfoliage.cfg"
+                                "url": "http://mc.timelessserver.com/TimelessServer/prod-1.11.2/config/betterfoliage.cfg"
                             }
                         }
                     ]
@@ -331,7 +331,7 @@
                     "artifact": {
                         "size": 1735525,
                         "MD5": "1c3380502eb7b9a495581b2402d144df",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.11.2/mods/journeymap.jar"
+                        "url": "http://mc.timelessserver.com/TimelessServer/prod-1.11.2/mods/journeymap.jar"
                     }
                 },
                 {
@@ -344,7 +344,7 @@
                     "artifact": {
                         "size": 461691,
                         "MD5": "439f82b69f3464969163c188818c677b",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.11.2/mods/worldeditcuife.jar"
+                        "url": "http://mc.timelessserver.com/TimelessServer/prod-1.11.2/mods/worldeditcuife.jar"
                     }
                 },
                 {
@@ -357,7 +357,7 @@
                     "artifact": {
                         "size": 542744,
                         "MD5": "26258a3557bf333e8f4ce8b1e9481031",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.11.2/mods/Waila.jar"
+                        "url": "http://mc.timelessserver.com/TimelessServer/prod-1.11.2/mods/Waila.jar"
                     }
                 },
                 {
@@ -371,7 +371,7 @@
                     "artifact": {
                         "size": 1685422,
                         "MD5": "3a98b5ed95810bf164e71c1a53be568d",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.11.2/liteloader.jar"
+                        "url": "http://mc.timelessserver.com/TimelessServer/files/1.11.2/liteloader.jar"
                     },
                     "subModules": [
                         {
@@ -385,7 +385,7 @@
                             "artifact": {
                                 "size": 1670811,
                                 "MD5": "16080785577b391d426c62c8d3138558",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.11.2/mods/macrokeybindmod.litemod"
+                                "url": "http://mc.timelessserver.com/TimelessServer/prod-1.11.2/mods/macrokeybindmod.litemod"
                             }
                         }
                     ]
@@ -398,7 +398,7 @@
                         "size": 175159,
                         "MD5": "bfa8c31d1da8131b59917bb2460205b1",
                         "path": "shaderpacks/SEUS v11.0.zip",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.11.2/shaderpacks/SEUS.zip"
+                        "url": "http://mc.timelessserver.com/TimelessServer/prod-1.11.2/shaderpacks/SEUS.zip"
                     }
                 },
                 {
@@ -408,7 +408,7 @@
                     "artifact": {
                         "size": 1973,
                         "path": "options.txt",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/options-1.11.2.txt" 
+                        "url": "http://mc.timelessserver.com/TimelessServer/files/options-1.11.2.txt" 
                     }
                 },
                 {
@@ -419,22 +419,22 @@
                         "size": 84,
                         "MD5": "71d99e229d7d2b8d2a6423e46832a4b8",
                         "path": "servers.dat",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.11.2/servers.dat" 
+                        "url": "http://mc.timelessserver.com/TimelessServer/prod-1.11.2/servers.dat" 
                     }
                 }
             ]
         },
         {
-            "id": "WesterosCraftTest-1.11.2",
-            "name": "WesterosCraft Test Server",
+            "id": "Timeless ServerTest-1.11.2",
+            "name": "Timeless Server Test Server",
             "description": "Main testing server. Experimental changes are live here.",
-            "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-test.png",
+            "icon": "http://mc.timelessserver.com/TimelessServer/files/server-test.png",
             "version": "3.9.4",
-            "address": "mc.westeroscraft.com:4444",
+            "address": "mc.timelessserver.com:4444",
             "minecraftVersion": "1.11.2",
             "discord": {
                 "shortId": "Test Server",
-                "largeImageText": "WesterosCraft Test Server",
+                "largeImageText": "Timeless Server Test Server",
                 "largeImageKey": "server-test"
             },
             "mainServer": false,
@@ -447,7 +447,7 @@
                     "artifact": {
                         "size": 4455536,
                         "MD5": "7cef816cc01d53a04a180f0214d2982a",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.11.2/forge-1.11.2-13.20.1.2476-universal.jar"
+                        "url": "http://mc.timelessserver.com/TimelessServer/files/1.11.2/forge-1.11.2-13.20.1.2476-universal.jar"
                     },
                     "subModules": [
                         {
@@ -457,7 +457,7 @@
                             "artifact": {
                                 "size": 32999,
                                 "MD5": "934b2d91c7c5be4a49577c9e6b40e8da",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.11.2/launchwrapper-1.12.jar"
+                                "url": "http://mc.timelessserver.com/TimelessServer/files/1.11.2/launchwrapper-1.12.jar"
                             }
                         },
                         {
@@ -467,7 +467,7 @@
                             "artifact": {
                                 "size": 241639,
                                 "MD5": "c5cc4613bbdfba3ccf5f0ab85390d0b8",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.11.2/asm-all-5.0.3.jar"
+                                "url": "http://mc.timelessserver.com/TimelessServer/files/1.11.2/asm-all-5.0.3.jar"
                             }
                         },
                         {
@@ -477,7 +477,7 @@
                             "artifact": {
                                 "size": 1474672,
                                 "MD5": "379c15c4f724421c6d5d7aecedaf87a6",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.11.2/scala-library-2.11.1.jar.pack.xz"
+                                "url": "http://mc.timelessserver.com/TimelessServer/files/1.11.2/scala-library-2.11.1.jar.pack.xz"
                             }
                         },
                         {
@@ -487,7 +487,7 @@
                             "artifact": {
                                 "size": 3076920,
                                 "MD5": "7d89e952f2d5c74577310cd2c28e3f20",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.11.2/scala-compiler-2.11.1.jar.pack.xz"
+                                "url": "http://mc.timelessserver.com/TimelessServer/files/1.11.2/scala-compiler-2.11.1.jar.pack.xz"
                             }
                         },
                         {
@@ -497,7 +497,7 @@
                             "artifact": {
                                 "size": 21324,
                                 "MD5": "04e3428b2600ace33c7ae2bf1f6c0a4c",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.11.2/scala-actors-migration_2.11-1.1.0.jar.pack.xz"
+                                "url": "http://mc.timelessserver.com/TimelessServer/files/1.11.2/scala-actors-migration_2.11-1.1.0.jar.pack.xz"
                             }
                         },
                         {
@@ -507,7 +507,7 @@
                             "artifact": {
                                 "size": 7956,
                                 "MD5": "ed9b1d27aba8ac4090a3749c4dfc895a",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.11.2/scala-continuations-library_2.11-1.0.2.jar.pack.xz"
+                                "url": "http://mc.timelessserver.com/TimelessServer/files/1.11.2/scala-continuations-library_2.11-1.0.2.jar.pack.xz"
                             }
                         },
                         {
@@ -517,7 +517,7 @@
                             "artifact": {
                                 "size": 46140,
                                 "MD5": "a8232db22a72a981de6b1399eb86dff7",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.11.2/scala-continuations-plugin_2.11.1-1.0.2.jar.pack.xz"
+                                "url": "http://mc.timelessserver.com/TimelessServer/files/1.11.2/scala-continuations-plugin_2.11.1-1.0.2.jar.pack.xz"
                             }
                         },
                         {
@@ -527,7 +527,7 @@
                             "artifact": {
                                 "size": 85568,
                                 "MD5": "2e50a7df17680daadacca69f07f8a16d",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.11.2/scala-parser-combinators_2.11-1.0.1.jar.pack.xz"
+                                "url": "http://mc.timelessserver.com/TimelessServer/files/1.11.2/scala-parser-combinators_2.11-1.0.1.jar.pack.xz"
                             }
                         },
                         {
@@ -537,7 +537,7 @@
                             "artifact": {
                                 "size": 1070312,
                                 "MD5": "84e5dc81c10e2bd74c579c9d0332fdd9",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.11.2/scala-reflect-2.11.1.jar.pack.xz"
+                                "url": "http://mc.timelessserver.com/TimelessServer/files/1.11.2/scala-reflect-2.11.1.jar.pack.xz"
                             }
                         },
                         {
@@ -547,7 +547,7 @@
                             "artifact": {
                                 "size": 736795,
                                 "MD5": "1d360289e697022a3f57abaad344b28f",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.11.2/scala-swing_2.11-1.0.1.jar"
+                                "url": "http://mc.timelessserver.com/TimelessServer/files/1.11.2/scala-swing_2.11-1.0.1.jar"
                             }
                         },
                         {
@@ -557,7 +557,7 @@
                             "artifact": {
                                 "size": 217812,
                                 "MD5": "cc891b094a4c32dedc56bfefe9b072ff",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.11.2/scala-xml_2.11-1.0.2.jar.pack.xz"
+                                "url": "http://mc.timelessserver.com/TimelessServer/files/1.11.2/scala-xml_2.11-1.0.2.jar.pack.xz"
                             }
                         },
                         {
@@ -567,7 +567,7 @@
                             "artifact": {
                                 "size": 746612,
                                 "MD5": "25cb22c3078e9fb3f7a861c912924862",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.11.2/akka-actor_2.11-2.3.3.jar.pack.xz"
+                                "url": "http://mc.timelessserver.com/TimelessServer/files/1.11.2/akka-actor_2.11-2.3.3.jar.pack.xz"
                             }
                         },
                         {
@@ -577,7 +577,7 @@
                             "artifact": {
                                 "size": 56636,
                                 "MD5": "10ec4ccabc4e68aac9cf87165ead5d7d",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.11.2/config-1.2.1.jar.pack.xz"
+                                "url": "http://mc.timelessserver.com/TimelessServer/files/1.11.2/config-1.2.1.jar.pack.xz"
                             }
                         },
                         {
@@ -587,7 +587,7 @@
                             "artifact": {
                                 "size": 5762,
                                 "MD5": "a3e3c3186e41c4a1a3027ba2bb23cdc6",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.11.2/lzma-0.0.1.jar"
+                                "url": "http://mc.timelessserver.com/TimelessServer/files/1.11.2/lzma-0.0.1.jar"
                             }
                         },
                         {
@@ -597,7 +597,7 @@
                             "artifact": {
                                 "size": 2523218,
                                 "MD5": "8fc4d4e0129244f9fd39650c5f30feb2",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.11.2/trove4j-3.0.3.jar"
+                                "url": "http://mc.timelessserver.com/TimelessServer/files/1.11.2/trove4j-3.0.3.jar"
                             }
                         },
                         {
@@ -607,7 +607,7 @@
                             "artifact": {
                                 "size": 318956,
                                 "MD5": "e5d2b7f46c4800a32f62ce75676a5710",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.11.2/vecmath-1.5.2.jar"
+                                "url": "http://mc.timelessserver.com/TimelessServer/files/1.11.2/vecmath-1.5.2.jar"
                             }
                         },
                         {
@@ -617,7 +617,7 @@
                             "artifact": {
                                 "size": 62477,
                                 "MD5": "13560a58a79b46b82057686543e8d727",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.11.2/jopt-simple-4.6.jar"
+                                "url": "http://mc.timelessserver.com/TimelessServer/files/1.11.2/jopt-simple-4.6.jar"
                             }
                         },
                         {
@@ -627,30 +627,30 @@
                             "artifact": {
                                 "size": 15146,
                                 "MD5": "7556d06064ebbfa3b334a15092d725d0",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.11.2/MercuriusUpdater-1.11.2.jar"
+                                "url": "http://mc.timelessserver.com/TimelessServer/files/1.11.2/MercuriusUpdater-1.11.2.jar"
                             }
                         }
                     ]
                 },
                 {
-                    "id": "com.westeroscraft:westerosblocks:3.2.0-beta-1-190",
-                    "name": "WesterosBlocks",
+                    "id": "com.timelessserver:timelessblocks:3.2.0-beta-1-190",
+                    "name": "TimelessBlocks",
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 17376788,
                          "MD5": "370f4f1804c93f498f31af8dac509605",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.11.2/mods/WesterosBlocks.jar"
+                        "url": "http://mc.timelessserver.com/TimelessServer/test-1.11.2/mods/TimelessBlocks.jar"
                     }
                 },
                 {
-                    "id": "com.westeroscraft:westeroscraftrp:2019-01-21",
-                    "name": "WesterosCraft Resource Pack",
+                    "id": "com.timelessserver:timelessserverrp:2019-01-21",
+                    "name": "Timeless Server Resource Pack",
                     "type": "File",
                     "artifact": {
                         "size": 46999843,
                         "MD5": "309eb9e5296e9f55cfecb7d4058245a4",
-                        "path": "resourcepacks/WesterosCraft.zip",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.11.2/resourcepacks/WesterosCraft.zip"
+                        "path": "resourcepacks/TimelessServer.zip",
+                        "url": "http://mc.timelessserver.com/TimelessServer/test-1.11.2/resourcepacks/TimelessServer.zip"
                     }
                 },
                 {
@@ -660,7 +660,7 @@
                     "artifact": {
                         "size": 2254712,
                         "MD5": "0dd7761e908f9b245bb0dc0fac5649f5",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.11.2/mods/OptiFine.jar"
+                        "url": "http://mc.timelessserver.com/TimelessServer/test-1.11.2/mods/OptiFine.jar"
                     }
                 },
                 {
@@ -670,7 +670,7 @@
                     "artifact": {
                         "size": 542399,
                         "MD5": "584b3099d34c9a1b8649385b90831b34",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.11.2/mods/jei.jar"
+                        "url": "http://mc.timelessserver.com/TimelessServer/test-1.11.2/mods/jei.jar"
                     }
                 },
                 {
@@ -683,7 +683,7 @@
                     "artifact": {
                         "size": 22291385,
                         "MD5": "65403c66d8b3655b372f58047941d206",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.11.2/mods/DynamicSurroundings.jar"
+                        "url": "http://mc.timelessserver.com/TimelessServer/test-1.11.2/mods/DynamicSurroundings.jar"
                     },
                     "subModules": [
                         {
@@ -693,18 +693,18 @@
                             "artifact": {
                                 "size": 20849,
                                 "path": "/config/dsurround/dsurround.cfg",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.11.2/config/dsurround/dsurround.cfg"
+                                "url": "http://mc.timelessserver.com/TimelessServer/test-1.11.2/config/dsurround/dsurround.cfg"
                             }
                         },
                         {
-                            "id": "westeros.json",
-                            "name": "DynamicSurroundings WesterosCraft Configuration File",
+                            "id": "timeless.json",
+                            "name": "DynamicSurroundings Timeless Server Configuration File",
                             "type": "File",
                             "artifact": {
                                 "size": 608,
                                 "MD5": "44eab112ff24d0bd29974c270de868ba",
-                                "path": "/config/dsurround/westeros.json",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.11.2/config/dsurround/westeros.json"
+                                "path": "/config/dsurround/timeless.json",
+                                "url": "http://mc.timelessserver.com/TimelessServer/test-1.11.2/config/dsurround/timeless.json"
                             }
                         }
                     ]
@@ -719,7 +719,7 @@
                     "artifact": {
                         "size": 4675903,
                         "MD5": "522fdf73b6e4343cb6243872fb7b4b6c",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.11.2/mods/BetterFoliage.jar"
+                        "url": "http://mc.timelessserver.com/TimelessServer/test-1.11.2/mods/BetterFoliage.jar"
                     },
                     "subModules": [
                         {
@@ -730,7 +730,7 @@
                                 "size": 7878,
                                 "MD5": "6dd38f873c4129af05a2d6c500cbe954",
                                 "path": "/config/betterfoliage.cfg",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.11.2/config/betterfoliage.cfg"
+                                "url": "http://mc.timelessserver.com/TimelessServer/test-1.11.2/config/betterfoliage.cfg"
                             }
                         }
                     ]
@@ -745,7 +745,7 @@
                     "artifact": {
                         "size": 1799560,
                         "MD5": "4315e9939bf64bfa963c8674cb13e838",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.11.2/mods/journeymap.jar"
+                        "url": "http://mc.timelessserver.com/TimelessServer/test-1.11.2/mods/journeymap.jar"
                     }
                 },
                 {
@@ -758,7 +758,7 @@
                     "artifact": {
                         "size": 461696,
                         "MD5": "53f6eef360af5329d9e52b5351657908",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.11.2/mods/worldeditcuife.jar"
+                        "url": "http://mc.timelessserver.com/TimelessServer/test-1.11.2/mods/worldeditcuife.jar"
                     }
                 },
                 {
@@ -771,7 +771,7 @@
                     "artifact": {
                         "size": 542744,
                         "MD5": "26258a3557bf333e8f4ce8b1e9481031",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.11.2/mods/Waila.jar"
+                        "url": "http://mc.timelessserver.com/TimelessServer/test-1.11.2/mods/Waila.jar"
                     }
                 },
                 {
@@ -785,7 +785,7 @@
                     "artifact": {
                         "size": 1685422,
                         "MD5": "3a98b5ed95810bf164e71c1a53be568d",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.11.2/liteloader.jar"
+                        "url": "http://mc.timelessserver.com/TimelessServer/files/1.11.2/liteloader.jar"
                     },
                     "subModules": [
                         {
@@ -799,7 +799,7 @@
                             "artifact": {
                                 "size": 1670811,
                                 "MD5": "16080785577b391d426c62c8d3138558",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.11.2/mods/macrokeybindmod.litemod"
+                                "url": "http://mc.timelessserver.com/TimelessServer/test-1.11.2/mods/macrokeybindmod.litemod"
                             }
                         }
                     ]
@@ -812,7 +812,7 @@
                         "size": 175159,
                         "MD5": "bfa8c31d1da8131b59917bb2460205b1",
                         "path": "shaderpacks/SEUS v11.0.zip",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.11.2/shaderpacks/SEUS.zip"
+                        "url": "http://mc.timelessserver.com/TimelessServer/test-1.11.2/shaderpacks/SEUS.zip"
                     }
                 },
                 {
@@ -822,7 +822,7 @@
                     "artifact": {
                         "size": 1973,
                         "path": "options.txt",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/options-1.11.2.txt" 
+                        "url": "http://mc.timelessserver.com/TimelessServer/files/options-1.11.2.txt" 
                     }
                 },
                 {
@@ -833,22 +833,22 @@
                         "size": 87,
                         "MD5": "594de6063df993b5fde31c7290226ee4",
                         "path": "servers.dat",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.11.2/servers.dat" 
+                        "url": "http://mc.timelessserver.com/TimelessServer/test-1.11.2/servers.dat" 
                     }
                 }
             ]
         },
         {
-            "id": "WesterosCraftTest-1.12.2",
-            "name": "WesterosCraft 1.12.2 Test Server",
+            "id": "Timeless ServerTest-1.12.2",
+            "name": "Timeless Server 1.12.2 Test Server",
             "description": "Tests for our version change to 1.12.2 are live here.",
-            "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-test.png",
+            "icon": "http://mc.timelessserver.com/TimelessServer/files/server-test.png",
             "version": "4.2.1",
-            "address": "mc.westeroscraft.com:4445",
+            "address": "mc.timelessserver.com:4445",
             "minecraftVersion": "1.12.2",
             "discord": {
                 "shortId": "1.12.2 Test Server",
-                "largeImageText": "WesterosCraft 1.12.2 Test Server",
+                "largeImageText": "Timeless Server 1.12.2 Test Server",
                 "largeImageKey": "server-test"
             },
             "mainServer": false,
@@ -861,7 +861,7 @@
                     "artifact": {
                         "size": 4937218,
                         "MD5": "5320593704af58b3906e7106d27e41c8",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/forge-1.12.2-14.23.5.2797-universal.jar"
+                        "url": "http://mc.timelessserver.com/TimelessServer/files/1.12.2/forge-1.12.2-14.23.5.2797-universal.jar"
                     },
                     "subModules": [
                         {
@@ -871,7 +871,7 @@
                             "artifact": {
                                 "size": 32999,
                                 "MD5": "934b2d91c7c5be4a49577c9e6b40e8da",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/launchwrapper-1.12.jar"
+                                "url": "http://mc.timelessserver.com/TimelessServer/files/1.12.2/launchwrapper-1.12.jar"
                             }
                         },
                         {
@@ -881,7 +881,7 @@
                             "artifact": {
                                 "size": 247787,
                                 "MD5": "f5ad16c7f0338b541978b0430d51dc83",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/asm-all-5.2.jar"
+                                "url": "http://mc.timelessserver.com/TimelessServer/files/1.12.2/asm-all-5.2.jar"
                             }
                         },
                         {
@@ -891,7 +891,7 @@
                             "artifact": {
                                 "size": 248566,
                                 "MD5": "f251ba666cccb260ff7215b2cbeee8d4",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/jline-2.13.jar"
+                                "url": "http://mc.timelessserver.com/TimelessServer/files/1.12.2/jline-2.13.jar"
                             }
                         },
                         {
@@ -901,7 +901,7 @@
                             "artifact": {
                                 "size": 1474672,
                                 "MD5": "379c15c4f724421c6d5d7aecedaf87a6",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-library-2.11.1.jar.pack.xz"
+                                "url": "http://mc.timelessserver.com/TimelessServer/files/1.12.2/scala-library-2.11.1.jar.pack.xz"
                             }
                         },
                         {
@@ -911,7 +911,7 @@
                             "artifact": {
                                 "size": 3076920,
                                 "MD5": "7d89e952f2d5c74577310cd2c28e3f20",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-compiler-2.11.1.jar.pack.xz"
+                                "url": "http://mc.timelessserver.com/TimelessServer/files/1.12.2/scala-compiler-2.11.1.jar.pack.xz"
                             }
                         },
                         {
@@ -921,7 +921,7 @@
                             "artifact": {
                                 "size": 21324,
                                 "MD5": "04e3428b2600ace33c7ae2bf1f6c0a4c",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-actors-migration_2.11-1.1.0.jar.pack.xz"
+                                "url": "http://mc.timelessserver.com/TimelessServer/files/1.12.2/scala-actors-migration_2.11-1.1.0.jar.pack.xz"
                             }
                         },
                         {
@@ -931,7 +931,7 @@
                             "artifact": {
                                 "size": 7956,
                                 "MD5": "ed9b1d27aba8ac4090a3749c4dfc895a",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-continuations-library_2.11-1.0.2.jar.pack.xz"
+                                "url": "http://mc.timelessserver.com/TimelessServer/files/1.12.2/scala-continuations-library_2.11-1.0.2.jar.pack.xz"
                             }
                         },
                         {
@@ -941,7 +941,7 @@
                             "artifact": {
                                 "size": 46140,
                                 "MD5": "a8232db22a72a981de6b1399eb86dff7",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-continuations-plugin_2.11.1-1.0.2.jar.pack.xz"
+                                "url": "http://mc.timelessserver.com/TimelessServer/files/1.12.2/scala-continuations-plugin_2.11.1-1.0.2.jar.pack.xz"
                             }
                         },
                         {
@@ -951,7 +951,7 @@
                             "artifact": {
                                 "size": 85568,
                                 "MD5": "2e50a7df17680daadacca69f07f8a16d",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-parser-combinators_2.11-1.0.1.jar.pack.xz"
+                                "url": "http://mc.timelessserver.com/TimelessServer/files/1.12.2/scala-parser-combinators_2.11-1.0.1.jar.pack.xz"
                             }
                         },
                         {
@@ -961,7 +961,7 @@
                             "artifact": {
                                 "size": 1070312,
                                 "MD5": "84e5dc81c10e2bd74c579c9d0332fdd9",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-reflect-2.11.1.jar.pack.xz"
+                                "url": "http://mc.timelessserver.com/TimelessServer/files/1.12.2/scala-reflect-2.11.1.jar.pack.xz"
                             }
                         },
                         {
@@ -971,7 +971,7 @@
                             "artifact": {
                                 "size": 736795,
                                 "MD5": "1d360289e697022a3f57abaad344b28f",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-swing_2.11-1.0.1.jar"
+                                "url": "http://mc.timelessserver.com/TimelessServer/files/1.12.2/scala-swing_2.11-1.0.1.jar"
                             }
                         },
                         {
@@ -981,7 +981,7 @@
                             "artifact": {
                                 "size": 217812,
                                 "MD5": "cc891b094a4c32dedc56bfefe9b072ff",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-xml_2.11-1.0.2.jar.pack.xz"
+                                "url": "http://mc.timelessserver.com/TimelessServer/files/1.12.2/scala-xml_2.11-1.0.2.jar.pack.xz"
                             }
                         },
                         {
@@ -991,7 +991,7 @@
                             "artifact": {
                                 "size": 746612,
                                 "MD5": "25cb22c3078e9fb3f7a861c912924862",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/akka-actor_2.11-2.3.3.jar.pack.xz"
+                                "url": "http://mc.timelessserver.com/TimelessServer/files/1.12.2/akka-actor_2.11-2.3.3.jar.pack.xz"
                             }
                         },
                         {
@@ -1001,7 +1001,7 @@
                             "artifact": {
                                 "size": 56636,
                                 "MD5": "10ec4ccabc4e68aac9cf87165ead5d7d",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/config-1.2.1.jar.pack.xz"
+                                "url": "http://mc.timelessserver.com/TimelessServer/files/1.12.2/config-1.2.1.jar.pack.xz"
                             }
                         },
                         {
@@ -1011,7 +1011,7 @@
                             "artifact": {
                                 "size": 5762,
                                 "MD5": "a3e3c3186e41c4a1a3027ba2bb23cdc6",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/lzma-0.0.1.jar"
+                                "url": "http://mc.timelessserver.com/TimelessServer/files/1.12.2/lzma-0.0.1.jar"
                             }
                         },
                         {
@@ -1021,7 +1021,7 @@
                             "artifact": {
                                 "size": 2523218,
                                 "MD5": "8fc4d4e0129244f9fd39650c5f30feb2",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/trove4j-3.0.3.jar"
+                                "url": "http://mc.timelessserver.com/TimelessServer/files/1.12.2/trove4j-3.0.3.jar"
                             }
                         },
                         {
@@ -1031,7 +1031,7 @@
                             "artifact": {
                                 "size": 318956,
                                 "MD5": "e5d2b7f46c4800a32f62ce75676a5710",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/vecmath-1.5.2.jar"
+                                "url": "http://mc.timelessserver.com/TimelessServer/files/1.12.2/vecmath-1.5.2.jar"
                             }
                         },
                         {
@@ -1041,7 +1041,7 @@
                             "artifact": {
                                 "size": 78175,
                                 "MD5": "0a5ec84e23df9d7cfb4063bc55f2744c",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/jopt-simple-5.0.3.jar"
+                                "url": "http://mc.timelessserver.com/TimelessServer/files/1.12.2/jopt-simple-5.0.3.jar"
                             }
                         },
                         {
@@ -1051,7 +1051,7 @@
                             "artifact": {
                                 "size": 54961,
                                 "MD5": "7741ebf29690ee7d9dde9cf4376347fc",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/maven-artifact-3.5.3.jar"
+                                "url": "http://mc.timelessserver.com/TimelessServer/files/1.12.2/maven-artifact-3.5.3.jar"
                             }
                         },
                         {
@@ -1061,30 +1061,30 @@
                             "artifact": {
                                 "size": 15098,
                                 "MD5": "6eb9e61097bee3103a2fdc42746b76a4",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/MercuriusUpdater-1.12.2.jar"
+                                "url": "http://mc.timelessserver.com/TimelessServer/files/1.12.2/MercuriusUpdater-1.12.2.jar"
                             }
                         }
                     ]
                 },
                 {
-                    "id": "com.westeroscraft:westerosblocks:4.0.0-beta-1-66",
-                    "name": "WesterosBlocks",
+                    "id": "com.timelessserver:timelessblocks:4.0.0-beta-1-66",
+                    "name": "TimelessBlocks",
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 17286330,
                          "MD5": "e5c38ef42e9cc4b957122207dcf95f4f",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/mods/WesterosBlocks.jar"
+                        "url": "http://mc.timelessserver.com/TimelessServer/test-1.12.2/mods/TimelessBlocks.jar"
                     }
                 },
                 {
-                    "id": "com.westeroscraft:westeroscraftrp:2019-01-21",
-                    "name": "WesterosCraft Resource Pack",
+                    "id": "com.timelessserver:timelessserverrp:2019-01-21",
+                    "name": "Timeless Server Resource Pack",
                     "type": "File",
                     "artifact": {
                         "size": 47002312,
                         "MD5": "86b169611ca0e51fdc47384d8423c402",
-                        "path": "resourcepacks/WesterosCraft.zip",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/resourcepacks/WesterosCraft.zip"
+                        "path": "resourcepacks/TimelessServer.zip",
+                        "url": "http://mc.timelessserver.com/TimelessServer/test-1.12.2/resourcepacks/TimelessServer.zip"
                     }
                 },
                 {
@@ -1094,7 +1094,7 @@
                     "artifact": {
                         "size": 2444057,
                         "MD5": "7ec95c57ac1a224d6eb93bd370e4ac37",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/mods/OptiFine.jar"
+                        "url": "http://mc.timelessserver.com/TimelessServer/test-1.12.2/mods/OptiFine.jar"
                     }
                 },
                 {
@@ -1104,7 +1104,7 @@
                     "artifact": {
                         "size": 620682,
                         "MD5": "ae6d0e6e873ef6c20f41097dc7fee8c6",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/mods/jei.jar"
+                        "url": "http://mc.timelessserver.com/TimelessServer/test-1.12.2/mods/jei.jar"
                     }
                 },
                 {
@@ -1117,7 +1117,7 @@
                     "artifact": {
                         "size": 22507134,
                         "MD5": "3d75602c66b7ccfc23c342e8d5e07469",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/mods/DynamicSurroundings.jar"
+                        "url": "http://mc.timelessserver.com/TimelessServer/test-1.12.2/mods/DynamicSurroundings.jar"
                     },
                     "subModules": [
                         {
@@ -1127,18 +1127,18 @@
                             "artifact": {
                                 "size": 22179,
                                 "path": "/config/dsurround/dsurround.cfg",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/config/dsurround/dsurround.cfg"
+                                "url": "http://mc.timelessserver.com/TimelessServer/test-1.12.2/config/dsurround/dsurround.cfg"
                             }
                         },
                         {
-                            "id": "westeros.json",
-                            "name": "DynamicSurroundings WesterosCraft Configuration File",
+                            "id": "timeless.json",
+                            "name": "DynamicSurroundings Timeless Server Configuration File",
                             "type": "File",
                             "artifact": {
                                 "size": 608,
                                 "MD5": "44eab112ff24d0bd29974c270de868ba",
-                                "path": "/config/dsurround/westeros.json",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/config/dsurround/westeros.json"
+                                "path": "/config/dsurround/timeless.json",
+                                "url": "http://mc.timelessserver.com/TimelessServer/test-1.12.2/config/dsurround/timeless.json"
                             }
                         }
                     ]
@@ -1153,7 +1153,7 @@
                     "artifact": {
                         "size": 926081,
                         "MD5": "e05a720c5900b9bac4e01179abe8eef6",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/mods/BetterFoliage.jar"
+                        "url": "http://mc.timelessserver.com/TimelessServer/test-1.12.2/mods/BetterFoliage.jar"
                     },
                     "subModules": [
                         {
@@ -1164,7 +1164,7 @@
                                 "size": 7878,
                                 "MD5": "6dd38f873c4129af05a2d6c500cbe954",
                                 "path": "/config/betterfoliage.cfg",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/config/betterfoliage.cfg"
+                                "url": "http://mc.timelessserver.com/TimelessServer/test-1.12.2/config/betterfoliage.cfg"
                             }
                         }
                     ]
@@ -1176,7 +1176,7 @@
                     "artifact": {
                         "size": 5124663,
                         "MD5": "59035365f7af35f599d1c4baade64d8b",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/mods/Forgelin.jar"
+                        "url": "http://mc.timelessserver.com/TimelessServer/test-1.12.2/mods/Forgelin.jar"
                     }
                 },
                 {
@@ -1189,7 +1189,7 @@
                     "artifact": {
                         "size": 1831161,
                         "MD5": "d3b5a672d2393f9fe63903598d50c769",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/mods/journeymap.jar"
+                        "url": "http://mc.timelessserver.com/TimelessServer/test-1.12.2/mods/journeymap.jar"
                     }
                 },
                 {
@@ -1202,7 +1202,7 @@
                     "artifact": {
                         "size": 459294,
                         "MD5": "2b8c1c3bc48c2d80b71daa658f656edb",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/mods/worldeditcuife.jar"
+                        "url": "http://mc.timelessserver.com/TimelessServer/test-1.12.2/mods/worldeditcuife.jar"
                     }
                 },
                 {
@@ -1216,7 +1216,7 @@
                     "artifact": {
                         "size": 1680383,
                         "MD5": "1420785ecbfed5aff4a586c5c9dd97eb",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/liteloader.jar"
+                        "url": "http://mc.timelessserver.com/TimelessServer/files/1.12.2/liteloader.jar"
                     },
                     "subModules": [
                         {
@@ -1230,7 +1230,7 @@
                             "artifact": {
                                 "size": 1726452,
                                 "MD5": "9ba3ed960bbb676743a3b6c2e1efc484",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/mods/macrokeybindmod.litemod"
+                                "url": "http://mc.timelessserver.com/TimelessServer/test-1.12.2/mods/macrokeybindmod.litemod"
                             }
                         }
                     ]
@@ -1243,7 +1243,7 @@
                         "size": 7062491,
                         "MD5": "e68cc9f8ffc8fad66583b9b2cc05356f",
                         "path": "shaderpacks/SEUS-Renewed.zip",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/shaderpacks/SEUS-Renewed.zip"
+                        "url": "http://mc.timelessserver.com/TimelessServer/test-1.12.2/shaderpacks/SEUS-Renewed.zip"
                     }
                 },
                 {
@@ -1253,7 +1253,7 @@
                     "artifact": {
                         "size": 1973,
                         "path": "options.txt",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/options-1.12.2.txt" 
+                        "url": "http://mc.timelessserver.com/TimelessServer/files/options-1.12.2.txt" 
                     }
                 },
                 {
@@ -1264,22 +1264,22 @@
                         "size": 87,
                         "MD5": "64dc1db90935997f07dfac422206f1de",
                         "path": "servers.dat",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/servers.dat" 
+                        "url": "http://mc.timelessserver.com/TimelessServer/test-1.12.2/servers.dat" 
                     }
                 }
             ]
         },
         {
-            "id": "WesterosCraftTest-1.13.2",
-            "name": "WesterosCraft 1.13.2 Test Server",
+            "id": "Timeless ServerTest-1.13.2",
+            "name": "Timeless Server 1.13.2 Test Server",
             "description": "Tests for our version change to 1.13.2 are live here.",
-            "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-test.png",
+            "icon": "http://mc.timelessserver.com/TimelessServer/files/server-test.png",
             "version": "5.0.0",
-            "address": "mc.westeroscraft.com:4445",
+            "address": "mc.timelessserver.com:4445",
             "minecraftVersion": "1.13.2",
             "discord": {
                 "shortId": "1.13.2 Test Server",
-                "largeImageText": "WesterosCraft 1.13.2 Test Server",
+                "largeImageText": "Timeless Server 1.13.2 Test Server",
                 "largeImageKey": "server-test"
             },
             "mainServer": false,
